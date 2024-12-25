@@ -1,4 +1,5 @@
 import "./App.css";
+// import BasicFunction from "./typescript/BasicFunction";
 // import BasicTypes from "./typescript/BasicTypes";
 // import ObjectLiterals from "./typescript/ObjectLiterals";
 
@@ -9,6 +10,7 @@ function App() {
 
       {/* <BasicTypes />
       <ObjectLiterals /> */}
+      {/* <BasicFunction /> */}
     </>
   );
 }
